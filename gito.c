@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main (){
 
-  printf("hello world !");
+  printf("CHECK MASTER BRANCH TO REACH THE MAIN PROJECT");
   return 0;
 }
