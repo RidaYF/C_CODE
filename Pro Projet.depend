@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1700780134 source:c:\users\hp\onedrive\bureau\c projet\pro projet\fonction.c
+	"fonction.h"
+	<stdio.h>
+	<time.h>
+	<unistd.h>
+
+1700773258 c:\users\hp\onedrive\bureau\c projet\pro projet\fonction.h
+
+1700773297 source:c:\users\hp\onedrive\bureau\c projet\pro projet\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<unistd.h>
+	"fonction.h"
+
